@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: O(n^2), but is faster than selection sort on a sorted input.
+
+sort2 uses: Merge Sort
+
+How do you know?: Fastest algo, O(log(n))
+
+sort3 uses: Selection Sort
+
+How do you know?: O(n^2), slower than bubble sort on sorted input.
